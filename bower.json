@@ -1,0 +1,23 @@
+{
+  "name": "css3Filter",
+  "version": "0.0.0",
+  "authors": [
+    "David Bastos <davtechh@gmail.com>"
+  ],
+  "description": "Filtro de categoria em css3",
+  "keywords": [
+    "css3",
+    "filtro",
+    "categoria",
+    "organização"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
